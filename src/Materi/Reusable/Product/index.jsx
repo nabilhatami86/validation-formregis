@@ -27,6 +27,7 @@ const Heading = styled.h1`
 const Price = styled.p`
     color: grey;
     font-size: 12px;
+    
 `;
 
 const Description = styled.p`
